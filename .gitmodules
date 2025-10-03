@@ -13,3 +13,6 @@
 [submodule "Predicting_Student_Performance-w-LR"]
 	path = Predicting_Student_Performance-w-LR
 	url = https://github.com/ProTeni/Predicting_Student_Performance-w-LR.git
+[submodule "EDA/eBay_car_Analysis"]
+	path = EDA/eBay_car_Analysis
+	url = https://github.com/ProTeni/eBay_car_Analysis.git
