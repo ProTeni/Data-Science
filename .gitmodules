@@ -1,0 +1,3 @@
+[submodule "Customer-churn-prediction/Customer-Churn-Project"]
+	path = Customer-churn-prediction/Customer-Churn-Project
+	url = https://github.com/ProTeni/Customer-Churn-Project.git
