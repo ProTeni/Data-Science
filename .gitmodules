@@ -28,3 +28,6 @@
 [submodule "House Prediction/House_Prediction"]
 	path = House Prediction/House_Prediction
 	url = https://github.com/ProTeni/House_Prediction.git
+[submodule "Academic Forecasts/GPA-prediction-using-SAT-scores"]
+	path = Academic Forecasts/GPA-prediction-using-SAT-scores
+	url = https://github.com/ProTeni/GPA-prediction-using-SAT-scores.git
