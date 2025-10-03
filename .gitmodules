@@ -25,3 +25,6 @@
 [submodule "Marketing Forecasts/marketing_budget-and-sales-prediction"]
 	path = Marketing Forecasts/marketing_budget-and-sales-prediction
 	url = https://github.com/ProTeni/marketing_budget-and-sales-prediction.git
+[submodule "House Prediction/House_Prediction"]
+	path = House Prediction/House_Prediction
+	url = https://github.com/ProTeni/House_Prediction.git
