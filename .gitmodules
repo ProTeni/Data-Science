@@ -7,3 +7,6 @@
 [submodule "Sales Forecasting/Predicting_Purchase_Likelihood"]
 	path = Sales Forecasting/Predicting_Purchase_Likelihood
 	url = https://github.com/ProTeni/Predicting_Purchase_Likelihood.git
+[submodule "Sales Forecasting/phamaceuical_marketing_Ad"]
+	path = Sales Forecasting/phamaceuical_marketing_Ad
+	url = https://github.com/ProTeni/phamaceuical_marketing_Ad.git
