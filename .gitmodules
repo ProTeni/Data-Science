@@ -1,3 +1,6 @@
 [submodule "Customer-churn-prediction/Customer-Churn-Project"]
 	path = Customer-churn-prediction/Customer-Churn-Project
 	url = https://github.com/ProTeni/Customer-Churn-Project.git
+[submodule "EDA/HealthCare-EDA"]
+	path = EDA/HealthCare-EDA
+	url = https://github.com/ProTeni/HealthCare-EDA.git
