@@ -10,3 +10,6 @@
 [submodule "Sales Forecasting/phamaceuical_marketing_Ad"]
 	path = Sales Forecasting/phamaceuical_marketing_Ad
 	url = https://github.com/ProTeni/phamaceuical_marketing_Ad.git
+[submodule "Predicting_Student_Performance-w-LR"]
+	path = Predicting_Student_Performance-w-LR
+	url = https://github.com/ProTeni/Predicting_Student_Performance-w-LR.git
