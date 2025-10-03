@@ -4,3 +4,6 @@
 [submodule "EDA/HealthCare-EDA"]
 	path = EDA/HealthCare-EDA
 	url = https://github.com/ProTeni/HealthCare-EDA.git
+[submodule "Sales Forecasting/Predicting_Purchase_Likelihood"]
+	path = Sales Forecasting/Predicting_Purchase_Likelihood
+	url = https://github.com/ProTeni/Predicting_Purchase_Likelihood.git
