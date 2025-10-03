@@ -22,3 +22,6 @@
 [submodule "HR Forecast/New_Hire"]
 	path = HR Forecast/New_Hire
 	url = https://github.com/ProTeni/New_Hire.git
+[submodule "Marketing Forecasts/marketing_budget-and-sales-prediction"]
+	path = Marketing Forecasts/marketing_budget-and-sales-prediction
+	url = https://github.com/ProTeni/marketing_budget-and-sales-prediction.git
