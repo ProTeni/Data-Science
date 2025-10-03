@@ -31,3 +31,6 @@
 [submodule "Academic Forecasts/GPA-prediction-using-SAT-scores"]
 	path = Academic Forecasts/GPA-prediction-using-SAT-scores
 	url = https://github.com/ProTeni/GPA-prediction-using-SAT-scores.git
+[submodule "SQL/SQL_Projects.me"]
+	path = SQL/SQL_Projects.me
+	url = https://github.com/ProTeni/SQL_Projects.me.git
