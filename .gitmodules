@@ -16,3 +16,6 @@
 [submodule "EDA/eBay_car_Analysis"]
 	path = EDA/eBay_car_Analysis
 	url = https://github.com/ProTeni/eBay_car_Analysis.git
+[submodule "HealthCare Forecast/Breast_Cancer-Prediction"]
+	path = HealthCare Forecast/Breast_Cancer-Prediction
+	url = https://github.com/ProTeni/Breast_Cancer-Prediction.git
